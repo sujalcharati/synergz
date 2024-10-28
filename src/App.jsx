@@ -1,5 +1,4 @@
 import Home from "./Components/Home";
-import "./App.css";
 import About from "./Components/About";
 import { BrowserRouter,Routes,Route } from "react-router-dom";
 import { Link } from "react-router-dom";
@@ -7,6 +6,7 @@ import Services from "./Components/Services";
 import Work from "./Components/work";
 import Carrer from "./Components/Carrer";
 import Contact from "./Components/Contact";
+import "./App.css";
 const  App = ()=> {
   return (
     <BrowserRouter>
