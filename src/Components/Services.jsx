@@ -9,7 +9,7 @@ const Services = () => {
                 <p className="mt-2 text-lg">We bring your ideas to life with end-to-end project development, from initial concept to final deployment. Our team specializes in creating scalable, high-performance applications tailored to your business goals.</p>
             </div>
             <div className="mt-8">
-                <h2 className="text-2xl font-semibold">Consulting</h2>
+                <h2 className="text-2xl font-semibold"cl>Consulting</h2>
                 <p className="mt-2 text-lg">Get expert guidance at every stage of your business journey. We offer consulting services in strategy, technology, and operations to help you make informed decisions and drive growth.</p>
             </div>
             <div className="mt-8">
