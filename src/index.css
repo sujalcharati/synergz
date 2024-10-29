@@ -2,5 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 body {
-    @apply bg-primaryBlue text-darkText;
+    @apply bg-black text-primaryBlue;
   }
