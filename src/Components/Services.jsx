@@ -3,7 +3,7 @@ import React from "react";
 const Services = () => {
     return (
         <div className="p-8 font-sans">
-            <h1 className="text-4xl font-bold text-center text-[#ca5b3a]">Our Services</h1>
+            <h1 className="text-4xl font-bold text-center text-blue-800">Our Services</h1>
             <div className="mt-8">
                 <h2 className="text-2xl font-semibold">Project Development</h2>
                 <p className="mt-2 text-lg">We bring your ideas to life with end-to-end project development, from initial concept to final deployment. Our team specializes in creating scalable, high-performance applications tailored to your business goals.</p>
