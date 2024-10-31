@@ -3,13 +3,14 @@ import React from "react";
 const Intern =()=>{
     return(
         <div>
-
-        <div className="bg-gray-600 p-5 rounded-lg shadow-md h-64">
+            <div className="bg-gray-600 p-5 rounded-lg shadow-md h-64 flex">
             <div className="w-96">
+
 
            <li className="mb-4 text-black text-xl">
                     <strong>Internships:</strong> Ideal for students or recent graduates who want to gain industry experience and learn from experienced professionals. Our interns work on real projects, gaining valuable insights and skills that prepare them for successful careers.
                 </li>   
+            
                 <li className="mb-4">
                     <a href="#" className="text-black hover:underlined">Apply Here for Internships</a>
                 </li>
