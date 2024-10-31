@@ -1,9 +1,11 @@
 import React from "react";
 import { FaEnvelope,FaPhone } from 'react-icons/fa';
+import Contactform from "./Contactform";
 
 const Contact = () => {
     return (
-        <div className="contact-container">
+        <div className="contact-container pt-10">
+            <Contactform />
             <div className="text-white font-bold text-2xl pl-36 pt-24 hover:text-primaryBlue">Get Support</div>
             <div className="pl-36 pt-4 flex items-center">
                 <FaEnvelope className="text-white mr-2" size={54} />
