@@ -8,8 +8,7 @@ const Carrer = ()=>{
             <h2 className="mt-8 text-2xl font-semibold text-blue-600">Available Positions</h2>
        <Intern/>
             <ul className="mt-4 list-none pl-0">
-              
-              
+            
                
             </ul>
             <p className="mt-4 text-lg leading-relaxed text-gray-700">

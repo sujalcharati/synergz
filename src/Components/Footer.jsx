@@ -12,10 +12,10 @@ const Footer = () => {
             <span className="font-semibold text-lg text-primaryBlue">synergz</span>
           </div>
           <div className="flex space-x-4">
-            <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/company/synergz-tech/" target="_blank" rel="noopener noreferrer">
               <FaLinkedin className="h-6" />
             </a>
-            <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/synergz_" target="_blank" rel="noopener noreferrer">
               <FaTwitter className="h-6" />
             </a>
             <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
