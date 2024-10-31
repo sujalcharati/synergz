@@ -12,7 +12,7 @@ const  App = ()=> {
   return (
     <BrowserRouter>
     
-      <nav className="flex justify-center">
+      <nav className="flex justify-center ">
         <ul className="flex list-none p-0   text-white font-semibold  ">
           <li className="mx-2 hover:text-primaryBlue">
             <Link to="/">Home</Link>
