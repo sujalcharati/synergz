@@ -6,6 +6,7 @@ import Services from "./Components/Services";
 import Work from "./Components/work";
 import Carrer from "./Components/Carrer";
 import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 import "./App.css";
 const  App = ()=> {
   return (
@@ -42,8 +43,11 @@ const  App = ()=> {
         <Route path="/carrers" element={<Carrer />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
+        <Footer/>
     </BrowserRouter>
   )
 }
 
+
 export default App;
+

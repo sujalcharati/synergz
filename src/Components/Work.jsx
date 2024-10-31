@@ -2,7 +2,7 @@ import React from "react";
 
 const Work = ()=>{
     return (
-        <div className="p-8 font-sans">
+        <div className="p-8 font-sans pt-28">
             <h1 className="text-center text-3xl font-bold text-blue-800 mb-8">Projects</h1>
             <div className="mb-8">
                 <h2 className="text-2xl font-semibold text-blue-700">EduSpark 📘</h2>

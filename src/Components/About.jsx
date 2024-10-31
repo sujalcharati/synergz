@@ -1,8 +1,9 @@
 import React from "react";
+import Footer from "./Footer";
 
-const About = ()=>{
-    return(
-        <div className="p-10 ">
+const About = () => {
+    return (
+        <div className="p-10 mt-56">
             <h1 className="text-4xl font-bold text-primaryBlue text-center mb-4">
                 Get to know synerg<span className="text-red-800">z</span>
             </h1>
@@ -17,6 +18,6 @@ const About = ()=>{
                 At Synergz, we believe in synergy—the combined power of a team that’s greater than the sum of its parts. Our team consists of passionate entrepreneurs, developers, designers, and strategists, all working together to solve real-world problems with cutting-edge technology and creativity.
             </p>
         </div>
-    )
+    );
 }
 export default About
